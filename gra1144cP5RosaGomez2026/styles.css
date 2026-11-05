@@ -1,0 +1,417 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    background-color: #CCC;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-size: cover;
+}
+wrapper {
+    width: 1366px;
+    margin: auto;
+    display: inline-block;
+    background-color: #0C0B0B;
+    height: 1000px;
+    
+}
+ul a li {
+    display: inline-block;
+    color: white;
+    padding: 10px 25px;
+}
+ul a li:hover {
+    background-color: #FFFFFF;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(Image%204.jpg);
+    height: 1024px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px;
+}
+h2 {
+    margin: 0;
+    padding: 20px;
+    color: white;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+footer {
+    padding: 20px;
+    color: white;
+}
+
+
+
+
+
+
+nav {
+    background-color: #000000;
+}
+#home {
+    background-color: #4C4849;
+    -webkit-box-shadow: 0px 0px #3A3A3A;
+    box-shadow: 0px 0px #3A3A3A;
+    margin-top: auto;
+    /* [disabled]margin-right: 400px; */
+    padding-top: auto;
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: auto;
+    position: relative;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-size: 0px
+;
+    background-clip: padding-box;
+    background-origin: content-box;
+    background-attachment: scroll;
+    margin-left: auto;
+    margin-bottom: auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background-size: 50%;
+    background-size: 70%;
+    text-shadow: 0px 0px #000000;
+    border-bottom-width: thin;
+    background-clip: padding-box;
+    opacity: 1;
+    background-image: none, -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(29,28,28,1.00) 100%);
+    background-image: none, -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(29,28,28,1.00) 100%);
+    background-image: none, -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(29,28,28,1.00) 100%);
+    background-image: none, linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(29,28,28,1.00) 100%);
+    height: 600px;
+    overflow-x: visible;
+    overflow-y: visible;
+    color: #635B5B;
+}
+.video-background {
+    width: 100%;
+    height: 400%;
+	overflow:hidden;
+	
+    
+}
+.video-background iframe {
+    width: 1366px;
+    height: 1000px;
+    border: none;
+    display: block;
+    
+    
+}
+
+
+
+#news {
+    background-image: url(
+		"images
+%20(2).jpg);
+    width: 1366px;
+    background-image: url(Alicia-Keys-01.jpg);
+    background-position: left center;
+    background-size: cover;
+    font-size: xx-large;
+    height: 100px;
+    font-style: normal;
+    text-align: justify;
+    background-clip: content-box;
+}
+.news-title {
+    -moz-transition-property: value;
+    animation-name: fadeln;
+    animation-duration: 1.2s;
+    animation-timing-function: ease-in-out;
+
+}
+
+#store {
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    border-collapse: separate;
+    list-style-type: circle;
+    list-style-image: url(Alicia-Keys_Empire-State_7in_Product-Shot_720x.png);
+    background-image: url(Music%20store.png);
+
+
+
+}
+#videos {
+    background-image: none;
+
+}
+#tour {
+
+    background-image: url(images
+%20(3).jpg)
+    background-image: url(Screenshot%202026-11-05%20020358.png);
+    background-image: url(Screenshot%202026-11-05%20020358.png);
+    background-size: contain;
+
+}
+#gallery {
+    background-image: url(Gallery.png);
+    background-size: contain;
+
+}
+#email {
+    background-image: url(url);
+    color: #F9F9F9;
+    font-size: xx-large;
+}
+#merch {
+    background-image: url(Screenshot%202026-11-05%20032345.png);
+}
+#blog {
+    background-image: none;
+}
+#privacy {
+    background-color: #000000;
+    background-image: none;
+    color: #F3EFEF;
+    font-size: large;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.logo {
+    background-image: url(Alica%20Keys%20image.jpg);
+}
+body wrapper {
+    background-repeat: no-repeat;
+}
+@keyframes fadeN{
+	from {
+		 opacity: 0;
+		 transform: translateY(30px);
+		}
+	
+	to {
+	   opacity:1;
+	   transform:translateY(0);
+	}
+}
+		
+.anniversary{
+ text-align: center;
+ padding: 40px 20px;
+ flex:1;
+}
+
+.anniversary img {
+ display: block;
+ width: 450px;
+ mix-width:100%;
+ height:auto;
+ margin:25px auto;
+}
+
+body{
+	margin:0;
+	min-height: 100vh;
+	
+	
+	
+	
+}
+
+wrapper{
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+	
+}
+
+main{
+    flex: 1;
+    width: 1366px;
+}
+
+footer{
+    margin-top: auto;
+    box-sizing: border-box;
+    text-align: center;
+
+	padding:20px
+	overflow-wrap:break-word;
+		
+	
+}
+	
+	
+
+		
+		
